@@ -32,18 +32,12 @@ Some call me **Jaylene** or **진영**. Welcome to my GitHub profile! I'm a seni
 
 ## 📞 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinyoungjaylenekim/)
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jkim3670@gatech.edu)
 
 ## 📝 Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [My Journey into Coding](https://your-blog.com/my-journey-into-coding)
-- [Top 10 Tips for College Students Learning to Code](https://your-blog.com/top-10-tips-college-coding)
-- [Balancing Life, Studies, and Coding](https://your-blog.com/balancing-life-studies-coding)
-<!-- BLOG-POST-LIST:END -->
-
+Coming soon!
 ---
 
 ⭐️ From [JinYoung](https://github.com/Jin-Y0ung)
