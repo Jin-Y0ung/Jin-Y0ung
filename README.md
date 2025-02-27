@@ -16,19 +16,30 @@ Some call me **Jaylene** or **진영**. Welcome to my GitHub profile! I'm a seni
 
 - 🐼 I have a dog named **Panda**
 - 🎮 Passionate gamer, love exploring new games and old classics alike.
-- 📚 Avid reader – currently hooked on mystery novels.
+- 📚 Audio books are always with me.
 - 🎶 Always have music playing while coding, anything from classical to rock.
-- 🧩 Always up for a good puzzle or brain teaser.
 
 ## 📚 Courses I've Taken
+# 🔹 Core Computer Science Courses  
+- **CS 2050** - Intro to Discrete Math for CS  
+- **CS 2110** - Computer Organization & Programming  
+- **CS 2200** - Systems and Networks  
+- **CS 2340** - Objects and Design  
+- **CS 3251** - Computer Networking I  
+- **CS 3510** - Design & Analysis of Algorithms  
+- **CS 4400** - Intro to Database Systems  
+- **CS 4675** - Internet Systems & Services  
 
-- **Programming Fundamentals**
-- **Data Structures and Algorithms**
-- **Web Development**
-- **Database Management Systems**
-- **Operating Systems**
-- **Computer Networks**
-- **Software Engineering**
+## 🔹 Advanced & Specialized Courses  
+- **VIP 3601 / 4602** - Vertically Integrated Projects (Robotarium Development)  
+- **MATH 3012** - Applied Combinatorics  
+- **MATH 2550** - Intro to Multivariable Calculus  
+
+## 🔹 Personal Favs 
+- **ECON 4401** - Behavioral Economics  
+- **CP 4030** - City and Technology  
+- **LMC 3062** - Film Acting Workshop  
+- **GT 4100** - Personal Finance  
 
 ## 📞 Connect with Me
 
