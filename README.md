@@ -20,7 +20,7 @@ Some call me **Jaylene** or **진영**. Welcome to my GitHub profile! I'm a seni
 - 🎶 Always have music playing while coding, anything from classical to rock.
 
 ## 📚 Courses I've Taken
-# 🔹 Core Computer Science Courses  
+### 🔹 Core Computer Science Courses  
 - **CS 2050** - Intro to Discrete Math for CS  
 - **CS 2110** - Computer Organization & Programming  
 - **CS 2200** - Systems and Networks  
@@ -30,12 +30,12 @@ Some call me **Jaylene** or **진영**. Welcome to my GitHub profile! I'm a seni
 - **CS 4400** - Intro to Database Systems  
 - **CS 4675** - Internet Systems & Services  
 
-## 🔹 Advanced & Specialized Courses  
+### 🔹 Advanced & Specialized Courses  
 - **VIP 3601 / 4602** - Vertically Integrated Projects (Robotarium Development)  
 - **MATH 3012** - Applied Combinatorics  
 - **MATH 2550** - Intro to Multivariable Calculus  
 
-## 🔹 Personal Favs 
+### 🔹 Personal Favs 
 - **ECON 4401** - Behavioral Economics  
 - **CP 4030** - City and Technology  
 - **LMC 3062** - Film Acting Workshop  
