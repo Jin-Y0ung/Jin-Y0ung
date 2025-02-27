@@ -15,7 +15,7 @@ Some call me **Jaylene** or **진영**. Welcome to my GitHub profile! I'm a seni
 ## 🎉 Fun Facts About Me
 
 - 🐼 I have a dog named **Panda**
-- 🎮 Passionate gamer, love exploring new games and old classics alike.
+- 🎮 Passionate nintendo switch gamer.
 - 📚 Audio books are always with me.
 - 🎶 Always have music playing while coding, anything from classical to rock.
 
